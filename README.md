@@ -8,3 +8,4 @@ python 打包资料包
 3，channel.py 注意，里面包含了windows和mac两种系统的配置，所以要根据自己的环境修改
 4，命令行切换到python打包文件路径下，python channel.py app-debug4j.apk
 5,执行完，会生成一个res文件夹，内部还有一个zipalign文件夹
+6.
